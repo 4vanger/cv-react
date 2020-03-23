@@ -1,0 +1,16 @@
+[
+	{
+		"type": "education",
+		"name": "Chernivtsi National 'Juriy Fedkovyc' University",
+		"degree": "BS on Applied Maths",
+		"start": "1 Sep 2000",
+		"finish": "1 Jun 2004"
+	},
+	{
+		"type": "education",
+		"name": "Chernivtsi National 'Juriy Fedkovyc' University",
+		"degree": "Masters degree on CS",
+		"start": "1 Sep 2004",
+		"finish": "1 Jun 2005"
+	}
+]
