@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 
 export function Header() {
     return <Navbar bg="light" expand="lg"fixed="top">
-    <Navbar.Brand href="#home">Andrew Kulinich</Navbar.Brand>
+    <Navbar.Brand href="#home">Andrew Kulinich - Javascript expert</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="mr-auto">
